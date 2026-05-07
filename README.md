@@ -6,7 +6,7 @@ Windows comes pre-loaded with apps that are more interested in selling you thing
 
 | Category | Replace | With |
 |---|---|---|
-| Browser | Edge | [Firefox](https://www.mozilla.org/firefox/) + [uBlock Origin](https://ublockorigin.com/), or [Brave](https://brave.com/) |
+| Browser | Edge | [Firefox](https://www.mozilla.org/firefox/) + [uBlock Origin](https://ublockorigin.com/), or just [Brave](https://brave.com/) |
 | PDF Viewer | Adobe Acrobat | [SumatraPDF](https://www.sumatrapdfreader.org/) |
 | Search Engine | Bing | [DuckDuckGo](https://duckduckgo.com/) |
 | File Search | Windows Explorer Search | [Everything](https://www.voidtools.com/) |
@@ -17,7 +17,8 @@ Windows comes pre-loaded with apps that are more interested in selling you thing
 | Office Suite | Microsoft Office | [LibreOffice](https://www.libreoffice.org/) |
 | Cloud Storage | OneDrive | [Proton Drive](https://proton.me/drive) |
 | Format SD Cards | Explorer | [SD Card Formatter](https://www.sdcard.org/downloads/formatter/) |
+| Notes | Notepad | [Notepad++](https://notepad-plus-plus.org/downloads/) |
 | Unzip | — | [7-Zip](https://www.7-zip.org/) |
 | Password Manager | — | [Proton Pass](https://proton.me/pass) |
 | Ebooks | — | [Calibre](https://calibre-ebook.com/) |
-| Write Disk Images | - | [Rufus](https://rufus.ie/) |
+| Write Disk Images | — | [Rufus](https://rufus.ie/) |
