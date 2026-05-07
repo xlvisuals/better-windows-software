@@ -4,24 +4,34 @@ Windows comes pre-loaded with apps that are more interested in selling you thing
 
 ---
 
-| Category | Replace | With |
-|---|---|---|
-| Browser | Edge | [Firefox](https://www.mozilla.org/firefox/) + [uBlock Origin](https://ublockorigin.com/), or just [Brave](https://brave.com/) |
-| Search Engine | Bing | [DuckDuckGo](https://duckduckgo.com/) |
-| PDF Viewer | Adobe Acrobat | [SumatraPDF](https://www.sumatrapdfreader.org/) |
-| File Search | Windows Explorer Search | [Everything](https://www.voidtools.com/) |
-| Start Menu | Windows Start | [Open-Shell](https://open-shell.github.io/Open-Shell-Menu/) |
-| Email | Outlook / Windows Mail | [Thunderbird](https://www.thunderbird.net/) |
-| Photo Preview | Windows Photos | [IrfanView](https://www.irfanview.com/) |
-| Media Player | Windows Media Player | [VLC](https://www.videolan.org/vlc/) |
-| Office Suite | Microsoft Office | [LibreOffice](https://www.libreoffice.org/) |
-| Cloud Storage | OneDrive | [Proton Drive](https://proton.me/drive) |
-| Format SD Cards | Explorer | [SD Card Formatter](https://www.sdcard.org/downloads/formatter/) |
-| Notes | Notepad | [Notepad++](https://notepad-plus-plus.org/downloads/) |
-| Unzip | — | [7-Zip](https://www.7-zip.org/) |
-| Password Manager | — | [Proton Pass](https://proton.me/pass) |
-| Ebooks | — | [Calibre](https://calibre-ebook.com/) |
-| Write Disk Images | — | [Rufus](https://rufus.ie/) |
+## Must replace
+
+| Category | Replace | With | Why |
+|---|---|---|---|
+| Browser | Edge | [Firefox](https://www.mozilla.org/firefox/) + [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), or just [Brave](https://brave.com/) | No tracking, no ads, blocks the web's worst behaviour |
+| Search Engine | Bing | [DuckDuckGo](https://duckduckgo.com/) | Fast; just search, not news/ads |
+| PDF Viewer | Adobe Acrobat | [SumatraPDF](https://www.sumatrapdfreader.org/) | Fast, tiny, opens instantly — no subscription nags |
+| File Search | Windows Explorer Search | [Everything](https://www.voidtools.com/) | Finds any file on your PC instantly, no indexing wait |
+| Email | Outlook / Windows Mail | [Thunderbird](https://www.thunderbird.net/) | Fully featured, no Microsoft account required |
+
+
+## Recommended
+
+| Category | Replace | With | Why |
+|---|---|---|---|
+| Notes | Notepad | [Notepad++](https://notepad-plus-plus.org/downloads/) | Tabs, syntax highlighting, actually useful |
+| Screenshot | Snipping Tool | [ShareX](https://getsharex.com/) | Screenshots, recording, annotation — all in one |
+| Start Menu | Windows Start | [Open-Shell](https://open-shell.github.io/Open-Shell-Menu/) | Classic menu without ads or recommended content |
+| Photo Preview | Windows Photos | [IrfanView](https://www.irfanview.com/) | Lightweight, fast, no AI features you didn't ask for |
+| Media Player | Windows Media Player | [VLC](https://www.videolan.org/vlc/) | Plays everything, no codec packs needed |
+| Office Suite | Microsoft Office | [LibreOffice](https://www.libreoffice.org/) | Full Word/Excel/PowerPoint replacement, free forever |
+| Cloud Storage | OneDrive | [Proton Drive](https://proton.me/drive) | End-to-end encrypted, not harvested for ads |
+| Format SD Cards | Explorer | [SD Card Formatter](https://www.sdcard.org/downloads/formatter/) | Official tool from the SD Association, does it properly |
+| Unzip | — | [7-Zip](https://www.7-zip.org/) | Handles every archive format, no bloat |
+| Password Manager | — | [Proton Pass](https://proton.me/pass) | Encrypted, syncs across devices, no upselling |
+| Ebooks | — | [Calibre](https://calibre-ebook.com/) | Manages your library and converts between formats |
+| Write Disk Images | — | [Rufus](https://rufus.ie/) | Creates bootable USB drives quickly and reliably |
+
 
 ---
 
