@@ -7,8 +7,8 @@ Windows comes pre-loaded with apps that are more interested in selling you thing
 | Category | Replace | With |
 |---|---|---|
 | Browser | Edge | [Firefox](https://www.mozilla.org/firefox/) + [uBlock Origin](https://ublockorigin.com/), or just [Brave](https://brave.com/) |
-| PDF Viewer | Adobe Acrobat | [SumatraPDF](https://www.sumatrapdfreader.org/) |
 | Search Engine | Bing | [DuckDuckGo](https://duckduckgo.com/) |
+| PDF Viewer | Adobe Acrobat | [SumatraPDF](https://www.sumatrapdfreader.org/) |
 | File Search | Windows Explorer Search | [Everything](https://www.voidtools.com/) |
 | Start Menu | Windows Start | [Open-Shell](https://open-shell.github.io/Open-Shell-Menu/) |
 | Email | Outlook / Windows Mail | [Thunderbird](https://www.thunderbird.net/) |
@@ -22,3 +22,8 @@ Windows comes pre-loaded with apps that are more interested in selling you thing
 | Password Manager | — | [Proton Pass](https://proton.me/pass) |
 | Ebooks | — | [Calibre](https://calibre-ebook.com/) |
 | Write Disk Images | — | [Rufus](https://rufus.ie/) |
+
+---
+
+These are the top tools to improve your computing experience significantly, just by not getting in the way. 
+For a more comprehensive list see my list of [free Windows software ](https://github.com/xlvisuals/free-windows-software).
