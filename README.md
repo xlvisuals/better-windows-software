@@ -32,7 +32,7 @@ Windows comes pre-loaded with apps that are more interested in selling you thing
 | Password Manager | — | [Proton Pass](https://proton.me/pass) | Encrypted, syncs across devices, no upselling |
 | Ebooks | — | [Calibre](https://calibre-ebook.com/) | Manages your library and converts between formats |
 | Write Disk Images | — | [Rufus](https://rufus.ie/) | Creates bootable USB drives quickly and reliably |
-| Download Manager | - [AB Download Manager](https://abdownloadmanager.com/) | Modern, free, open source, browser integration works well |
+| Download Manager | — | [AB Download Manager](https://abdownloadmanager.com/) | Modern, free, open source, browser integration works well |
 
 ---
 
