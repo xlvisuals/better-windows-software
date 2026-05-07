@@ -19,11 +19,12 @@ Windows comes pre-loaded with apps that are more interested in selling you thing
 
 | Category | Replace | With | Why |
 |---|---|---|---|
+| Photo Preview | Windows Photos | [IrfanView](https://www.irfanview.com/) | Lightweight, fast, no AI features you didn't ask for |
 | Notes | Notepad | [Notepad++](https://notepad-plus-plus.org/downloads/) | Tabs, syntax highlighting, actually useful |
 | Screenshot | Snipping Tool | [ShareX](https://getsharex.com/) | Screenshots, recording, annotation — all in one |
-| Start Menu | Windows Start | [Open-Shell](https://open-shell.github.io/Open-Shell-Menu/) | Classic menu without ads or recommended content |
-| Photo Preview | Windows Photos | [IrfanView](https://www.irfanview.com/) | Lightweight, fast, no AI features you didn't ask for |
+| Video Editor | Clipchamp | [OpenShot](https://www.openshot.org/) or [Kdenlive](https://kdenlive.org/) | Cut and export - no learning curve, no account, no nags | 
 | Media Player | Windows Media Player | [VLC](https://www.videolan.org/vlc/) | Plays everything, no codec packs needed |
+| Start Menu | Windows Start | [Open-Shell](https://open-shell.github.io/Open-Shell-Menu/) | Classic menu without ads or recommended content |
 | Office Suite | Microsoft Office | [LibreOffice](https://www.libreoffice.org/) | Full Word/Excel/PowerPoint replacement, free forever |
 | Cloud Storage | OneDrive | [Proton Drive](https://proton.me/drive) | End-to-end encrypted, not harvested for ads |
 | Format SD Cards | Explorer | [SD Card Formatter](https://www.sdcard.org/downloads/formatter/) | Official tool from the SD Association, does it properly |
@@ -37,3 +38,7 @@ Windows comes pre-loaded with apps that are more interested in selling you thing
 
 These are the top tools to improve your computing experience significantly, just by not getting in the way. 
 For a more comprehensive list see my list of [free Windows software ](https://github.com/xlvisuals/free-windows-software).
+
+## What about Macs?
+
+A Mac user only needs [Firefox](https://www.mozilla.org/firefox/) + [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [DuckDuckGo](https://duckduckgo.com/), [VLC](https://www.videolan.org/vlc/) — and that's about it. Apple's Preview/Pages/Numbers/Keynote/Mail/Photos/Notes are all decent. Preview is especially great, no Acrobat needed. The Windows list exists, and is so long, because Microsoft has been actively making their defaults worse; Apple mostly hasn't done that yet.
